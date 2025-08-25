@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Beygone Kipkoech!
 
 I'm a **Data Scientist** and **Data Engineer** passionate about turning raw data into actionable insights and building scalable data pipelines. With a knack for uncovering patterns and crafting efficient systems, I thrive at the intersection of data, code, and innovation.
 
